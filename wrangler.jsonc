@@ -21,7 +21,5 @@
       "dataset": "sink"
     }
   ],
-  "kv_namespaces": [
-"kv_namespaces": []
-  ]
+  "kv_namespaces": []
 }
